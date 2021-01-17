@@ -13,7 +13,7 @@
 - [ ] Analizar Incorporar test `adfuller` de estacionariedad /tendencia
 
 
-##### Innecesarios
+##### Innecesarios - Investigar:
 - [ ] Porque `::-1` reindexa mal: `dd[f'split_{i}_rein'] = df.reindex(index=(res.index[::-1]))`
 - [ ] Ver si sacando tendencia aproximo estacionalidad manualmente
-- [ ] Como obtener Index de fila y agregarlo como string con .map a una nueva columna (como +ROW(...) de Excel)
+- [ ] Obtener Index de fila como atributo, como agregarlo como string a una nueva columna (como +ROW(...) de Excel)

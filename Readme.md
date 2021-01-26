@@ -5,6 +5,8 @@
 - [X] Arreglar Textos y titulares
 - [X] Producir visualizacion final; predicciones y serie general
 - [ ] Analizar probelma de serie defasada (1 dia)
+- [ ] Investigación de Prophet; modelo aditivo
+- [ ] Implementación Modelo Prophet
 
 > Problema de serie defasada: Al producir las estructuras se elimina implicitamente un dia, con los arreglos en numpy con lo cual al intentar graficar el eje x con las fechas crudas (de `diario.cantidad_pasos.index[-92:]`) el resultado difiere, por un dia, de los volumenes que tiene `y_test` y no se pueden usar en el mismo grafico. Es un detalle, pero es un error.
 

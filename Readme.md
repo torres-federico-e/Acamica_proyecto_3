@@ -5,6 +5,11 @@
 - [X] Arreglar Textos y titulares
 - [X] Producir visualizacion final; predicciones y serie general
 - [X] Analizar probelma de serie defasada (1 dia)
+- [X] Realizar prediccion final sobre Test - modelo basico
+- [ ] Preparar TP 3 modelo base para pimera entrega
+- [ ] Depurar y mejorar modelo para TP 4
+- [ ] Comenzar TP 4: mejoras + implementacion prophet
+- [ ] Mejoras Feature selection + agregar categoricas
 - [ ] Investigación de Prophet; modelo aditivo
 - [ ] Implementación Modelo Prophet
 

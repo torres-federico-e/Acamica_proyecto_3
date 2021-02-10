@@ -1,0 +1,17 @@
+https://towardsdatascience.com/fast-and-robust-sliding-window-vectorization-with-numpy-3ad950ed62f5
+
+
+SKTIME: 
+https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55
+
+SKTIME DOCS:
+https://www.sktime.org/en/latest/related_software.html
+
+
+
+http://xarray.pydata.org/en/stable/why-xarray.html
+http://xarray.pydata.org/en/stable/time-series.html
+
+
+TIME SERIES FOR BEGGINERS: 
+https://www.tutorialspoint.com/time_series/time_series_python_libraries.htm
